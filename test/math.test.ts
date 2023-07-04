@@ -1,4 +1,4 @@
-import { sum } from "../src/math";
+import { sum } from "../src/Math";
 
 test("Deve somar 2 + 2 ", function () {
     const result = sum(2, 2);
