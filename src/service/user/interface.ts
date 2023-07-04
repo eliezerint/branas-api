@@ -1,0 +1,3 @@
+type IUser = {
+    email: string;
+};
