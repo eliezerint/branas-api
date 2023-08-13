@@ -4,4 +4,6 @@ export default class Circle {
     getArea(): number {
         return 2 * Math.PI * this.radius;
     }
+
+    getRaio(){}
 }
